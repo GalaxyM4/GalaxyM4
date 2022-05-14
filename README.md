@@ -1,6 +1,5 @@
 ### Hola soy yo 👋
 
-<!--
 **GalaxyM4/GalaxyM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Algunas cosas mias:
@@ -12,4 +11,4 @@ Algunas cosas mias:
 - 📫 Desarrollador de Bots verificado de Discord.
 - 😄 Tambien creo paginas web pero soy nuevo en eso.
 - ⚡ Fun fact: Los tiburones no pueden dejar de nadar.
--->
+
