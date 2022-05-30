@@ -11,4 +11,3 @@ Algunas cosas mias:
 - 📫 Desarrollador de Bots verificado de Discord.
 - 😄 Tambien creo paginas web pero soy nuevo en eso.
 - ⚡ Fun fact: Los tiburones no pueden dejar de nadar.
-
