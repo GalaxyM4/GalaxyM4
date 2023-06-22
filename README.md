@@ -5,7 +5,7 @@
 Algunas cosas mias:
 
 - 🔭 Estudiante promedio.
-- 😴 Intento ser modder de bs.
+- 😴 Aprendiendo lenguajes piolas.
 - 🤔 No se que poner.
 - 💬 Jaja un globo de texto.
 - 📫 Desarrollador de Bots verificado de Discord.
