@@ -1,10 +1,8 @@
-### Hola soy yo 👋
-
-**GalaxyM4/GalaxyM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Algunas cosas mias:
-
-- 🔭 Estudiante promedio.
+### Hola soy yo salu2
+**GalaxyM4/GalaxyM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. nose si quitar esta cosa
+Algunas weas mias ♻️:
+- hola 🦤
+- Estudiante promedio 🐒.
 - 😴 Aprendiendo lenguajes piolas.
 - 🤔 No se que poner.
 - 💬 Jaja un globo de texto.
